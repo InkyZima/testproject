@@ -1,13 +1,13 @@
 # testproject
 
-https://www.youtube.com/watch?v=73I5dRucCds
-git basics:
-git add <filename>
-OR
-git add . (add new/untracked files)
-git commit -m <comment>
-git push
-touch <new file name>
+https://www.youtube.com/watch?v=73I5dRucCds  
+git basics:  
+git add <filename>  
+OR  
+git add . (add new/untracked files)  
+git commit -m <comment>  
+git push  
+touch <new file name>  
 
 git status
 git log
